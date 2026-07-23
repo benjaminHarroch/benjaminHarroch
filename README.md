@@ -2,7 +2,6 @@
 
 Full‑Stack Developer (MERN) — I build end‑to‑end web applications with a focus on practical, maintainable code and modern developer workflows. I enjoy learning and using AI-assisted tools (ChatGPT, GitHub Copilot, Cursor, and locally hosted Ollama models) to boost productivity and code quality.
 
-[📍 Ashdod, Israel](https://www.google.com/maps/place/Ashdod) • Open to collaboration and new opportunities
 
 ---
 
@@ -78,8 +77,8 @@ Here are some of my most relevant projects — click to view the code and demos.
 
 ## Contact & Links
 - GitHub: https://github.com/benjaminHarroch  
-- LinkedIn: (add your LinkedIn URL)  
-- Email: (add your email)
+- LinkedIn: www.linkedin.com/in/benjamin-harroch-414023218 
+- Email: bharroch@gmail.com
 
 ---
 
@@ -88,4 +87,3 @@ B.Sc. in Computer Science — The Academic College of Tel Aviv–Yaffo, 2021
 
 ---
 
-Made with ❤️
