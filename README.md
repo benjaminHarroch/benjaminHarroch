@@ -2,6 +2,7 @@
 
 Full‑Stack Developer (MERN) — I build end‑to‑end web applications with a focus on practical, maintainable code and modern developer workflows. I enjoy learning and using AI-assisted tools (ChatGPT, GitHub Copilot, Cursor, and locally hosted Ollama models) to boost productivity and code quality.
 
+[📍 Ashdod, Israel](https://www.google.com/maps/place/Ashdod) • Open to collaboration and new opportunities
 
 ---
 
@@ -44,6 +45,20 @@ Full Stack Developer Intern — LevelUp, The Academic College of Tel Aviv–Yaff
 
 ---
 
+## Featured Repositories
+Here are some of my most relevant projects — click to view the code and demos.
+
+- myShop — a small e-commerce demo built with the MERN stack. https://github.com/benjaminHarroch/myShop
+- HomeAssingmentBlockChaine — a TypeScript blockchain assignment / coursework. https://github.com/benjaminHarroch/HomeAssingmentBlockChaine
+- helm-dashboard — The missing UI for Helm: visualize your releases (Go). https://github.com/benjaminHarroch/helm-dashboard
+- SpendWise_Chat — Backend integrating with WhatsApp API to track expenses via natural language (Python). https://github.com/benjaminHarroch/SpendWise_Chat
+- savee — A GenAI tool that helps fight online fake content with fact-based generations. https://github.com/benjaminHarroch/savee
+- TradeHub_MERN — TradeHub MERN implementation / demo. https://github.com/benjaminHarroch/TradeHub_MERN
+
+(If you prefer a different set of repositories showcased, tell me which ones and I’ll update the links and descriptions.)
+
+---
+
 ## Projects (high level)
 - Enterprise Banking Frontend — Micro Frontend SPA used in banking workflows. (private / internal)  
 - Real‑time Platform — Dashboard and real‑time data processing for robotics/automation (Socket.IO, MQTT, Redis).  
@@ -73,7 +88,4 @@ B.Sc. in Computer Science — The Academic College of Tel Aviv–Yaffo, 2021
 
 ---
 
-If you want, I can:
-- Add project links and screenshots for each selected repo.
-- Add GitHub stats cards and more badges (stack, languages).
-- Create a branch in this repo and open a PR with this README applied.
+Made with ❤️
